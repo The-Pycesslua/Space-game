@@ -1,4 +1,4 @@
-float hoehe = 0, FUEL = 50,Geschwindichkeit = 0;boolean gameover = true;
+float hoehe = 0, float FUEL = 50,Geschwindichkeit = 0;boolean gameover = true;
 void setup(){
 size(600,500);
 
